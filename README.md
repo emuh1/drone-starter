@@ -7,6 +7,7 @@ Where to start?
 1. If you already have running instance of Drone CI you can just fork this repository and enable it in Drone.
 2. If you are not familiar with Drone CI - we have detailed steps on how to setup Drone CI for local & production environments [in this repository](https://github.com/maqpie/deploy-drone)
 
+    
 
 ### Repository structure
 
